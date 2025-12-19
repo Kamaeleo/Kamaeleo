@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Kamaeleo
-- 👀 I’m interested in hacking/3D-printing
-- 🌱 I’m currently learning electronics
-- 💞️ I’m looking to collaborate on open-source projects
+- 👋 Hi, I’m Kamaeleo
+- 👀 I’m interested in 3D-printing/if you read this you should know
+- 🌱 I’m currently learning (   U3RhbGtlciE=   )
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kamaeleo@mail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like swiss chocolate!
+- 😄 Pronouns: He/Him (Actually I don't care)
+- ⚡ Fun fact: I almost broke my hand while 3D-printing
 
 <!---
 Kamaeleo/Kamaeleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
