@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamaeleo
-- 👀 I’m interested in 3D-printing/if you read this you should know
+- 👀 I’m interested in 3D-printing/if you know me, you know
 - 🌱 I’m currently learning (   U3RhbGtlciE=   )
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kamaeleo@mail.com
