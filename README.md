@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning (   U3RhbGtlciE=   )
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kamaeleo@mail.com
-- 😄 Pronouns: He/Him (Actually I don't care)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I almost broke my hand while 3D-printing
 
 <!---
